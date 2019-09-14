@@ -2,7 +2,9 @@
 <div align="center"> 
 <img src="data/media/wechat_8cm.jpg" > 
 </div>
+
 ***
+
 ## Mainstream open source SLAM framework
 ### Visual SLAM
 [MonoSLAM](monoslam)

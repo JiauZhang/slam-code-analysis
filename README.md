@@ -1,12 +1,10 @@
 ## 微信公众号
 <div align="center"> 
-<img src="data/media/wechat_8cm.jpg" > 
+<img src="https://images.cnblogs.com/cnblogs_com/jiau/1570086/o_qrcode_for_gh_2be37ba649c4_344.jpg" width="25%"> 
 </div>
 
-***
-
-## Mainstream open source SLAM framework
-### Visual SLAM
+## 主流开源 SLAM 框架
+### 视觉 SLAM
 [MonoSLAM](monoslam)
 
 [PTAM](ptam)
@@ -21,7 +19,7 @@
 
 [S-MSCKF](s-msckf)
 
-### Lidar SLAM
+### 激光 SLAM
 [LOAM](loam)
 
 [GMapping](gmapping)

@@ -41,3 +41,8 @@
 #### Digging Into Self-Supervised Monocular Depth Estimation
 <img src="/data/media/pdf.png" width=16/> [\[pdf\]](https://arxiv.org/pdf/1806.01260.pdf)
 <img src="/data/media/gh.png" width=16/> [\[code\]](https://github.com/nianticlabs/monodepth2)
+
+#### Self-Supervised 3D Keypoint Learning for Ego-motion Estimation
+<img src="/data/media/pdf.png" width=16/> [\[pdf\]](https://arxiv.org/pdf/1912.03426.pdf)
+<img src="/data/media/yt.png" width=16/> [\[video\]](https://www.youtube.com/watch?v=4hFhSD8QUPM)
+<img src="/data/media/gh.png" width=16/> [\[code\]](https://github.com/TRI-ML/KP3D)
